@@ -30,8 +30,6 @@
 #define _AGS02MA_CRC8_INIT 0xFF       ///< CRC8 init val
 #define _AGS02MA_CRC8_POLYNOMIAL 0x31 ///< CRC8 polynomial
 
-static uint8_t crc8(const uint8_t *data, int len);
-
 /*!
  *    @brief  Class that stores state and functions for interacting with
  *            the AGS02MA gas sensor
