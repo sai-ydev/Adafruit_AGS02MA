@@ -16,7 +16,7 @@ Adafruit invests time and resources providing this open source code, please supp
 
 # Contributing
 
-Contributions are welcome! Please read our [Code of Conduct](https://github.com/adafruit/Adafruit_AGS02MA/blob/master/CODE_OF_CONDUCT.md)
+Contributions are welcome! Please read our [Code of Conduct](https://github.com/adafruit/Adafruit_AGS02MA/blob/master/code-of-conduct.md)
 before contributing to help this project stay welcoming.
 
 ## Documentation and doxygen
