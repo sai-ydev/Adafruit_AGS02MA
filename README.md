@@ -3,7 +3,8 @@
 This is the Adafruit AGS02MA Gas / TVOC Sensor library for Arduino
 
 Tested and works great with the Adafruit AGS02MA sensor
-[<img src="assets/board.png?raw=true" width="500px">](https://www.adafruit.com/products/)
+
+[<img src="assets/board.jpg">](https://www.adafruit.com/product/5593)
 
 
 This chip uses I2C to communicate, 2 pins are required to interface
@@ -16,7 +17,7 @@ Adafruit invests time and resources providing this open source code, please supp
 
 # Contributing
 
-Contributions are welcome! Please read our [Code of Conduct](https://github.com/adafruit/Adafruit_AGS02MA/blob/master/CODE_OF_CONDUCT.md>)
+Contributions are welcome! Please read our [Code of Conduct](https://github.com/adafruit/Adafruit_AGS02MA/blob/master/code-of-conduct.md)
 before contributing to help this project stay welcoming.
 
 ## Documentation and doxygen

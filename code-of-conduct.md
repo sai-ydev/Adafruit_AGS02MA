@@ -115,10 +115,8 @@ accordingly.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 1.4, available at
-<https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>,
-and the [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html).
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html),
+version 1.4, and the [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html).
 
 For other projects adopting the Adafruit Community Code of
 Conduct, please contact the maintainers of those projects for enforcement.
